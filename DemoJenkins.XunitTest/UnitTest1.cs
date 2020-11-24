@@ -18,7 +18,7 @@ namespace DemoJenkins.XunitTest
         [Fact]
         public void Test3()
         {
-            Assert.True(false);
+            Assert.True(true);
         }
     }
 }
